@@ -15,7 +15,7 @@ Dado que busco mejorar la forma de utilizar los recursos de mantención de las a
 
 2. Descripción detallada de la métrica 
 
-Las medidas que se usarán en este caso para determinar la calidad de predicción de la red son el valor del AUC (curva ROC) y el valor del test KS.
+Las medidas que se usarán en este caso para determinar la calidad de predicción de la red son el valor del AUC (curva ROC).
 
 * Área bajo al Curva ROC o AUC:
 
