@@ -1,6 +1,6 @@
-#Mantenimiento presctiptivo de antenas de telecomunicaciones
+# Mantenimiento presctiptivo de antenas de telecomunicaciones
 
-##Entrega 1 proyecto aplicación CC6204 - Deep Learning, 2019
+## Entrega 1 proyecto aplicación CC6204 - Deep Learning, 2019
 
 ### Pablo Lemus
 
@@ -51,7 +51,7 @@ Lamentablemente por motivos de confidencialidad con la empresa, no puedo entrega
 
 Dado que modelaré el problema en base a series de tiempo de los datos registrados, la literatura recomienda utilizar una arquitectura de Redes Neuronales Recurrentes. Y en particular pienso utilizar una red LTSM (Long Short Term Memory).
 
-![Diagrama de red LTSM](LSTM_2.JPG)
+![Diagrama de red LTSM](LSTM_2.png)
 
 
 
